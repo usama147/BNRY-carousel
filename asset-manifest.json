@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/BNRY-carousel/static/css/main.39959692.chunk.css",
-    "main.js": "/BNRY-carousel/static/js/main.5515c640.chunk.js",
-    "main.js.map": "/BNRY-carousel/static/js/main.5515c640.chunk.js.map",
+    "main.js": "/BNRY-carousel/static/js/main.264dc62e.chunk.js",
+    "main.js.map": "/BNRY-carousel/static/js/main.264dc62e.chunk.js.map",
     "runtime-main.js": "/BNRY-carousel/static/js/runtime-main.fa3d09b0.js",
     "runtime-main.js.map": "/BNRY-carousel/static/js/runtime-main.fa3d09b0.js.map",
     "static/css/2.49d3d760.chunk.css": "/BNRY-carousel/static/css/2.49d3d760.chunk.css",
     "static/js/2.b27acacc.chunk.js": "/BNRY-carousel/static/js/2.b27acacc.chunk.js",
     "static/js/2.b27acacc.chunk.js.map": "/BNRY-carousel/static/js/2.b27acacc.chunk.js.map",
     "index.html": "/BNRY-carousel/index.html",
-    "precache-manifest.896d980b0ac7ba46473db7078fe99707.js": "/BNRY-carousel/precache-manifest.896d980b0ac7ba46473db7078fe99707.js",
+    "precache-manifest.f80c2c2fbc4238d59d856038e8b89ae1.js": "/BNRY-carousel/precache-manifest.f80c2c2fbc4238d59d856038e8b89ae1.js",
     "service-worker.js": "/BNRY-carousel/service-worker.js",
     "static/css/2.49d3d760.chunk.css.map": "/BNRY-carousel/static/css/2.49d3d760.chunk.css.map",
     "static/css/main.39959692.chunk.css.map": "/BNRY-carousel/static/css/main.39959692.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.49d3d760.chunk.css",
     "static/js/2.b27acacc.chunk.js",
     "static/css/main.39959692.chunk.css",
-    "static/js/main.5515c640.chunk.js"
+    "static/js/main.264dc62e.chunk.js"
   ]
 }

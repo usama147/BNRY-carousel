@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/BNRY-carousel/precache-manifest.896d980b0ac7ba46473db7078fe99707.js"
+  "/BNRY-carousel/precache-manifest.f80c2c2fbc4238d59d856038e8b89ae1.js"
 );
 
 self.addEventListener('message', (event) => {
