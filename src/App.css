@@ -1,18 +1,12 @@
 .App {
   text-align: center;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
-
+ 
 .App-logo {
   height: 40vmin;
-  pointer-events: none;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
+ 
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -23,16 +17,43 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+ 
 .App-link {
-  color: #61dafb;
+  color: #09d3ac;
+}
+ 
+body{
+  background-image: linear-gradient(to bottom right, red, yellow) !important;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.hori{
+  height: 1px;
+  background-color: rgb(0, 0, 0);
+  border: none;
+}
+.slides .slick-prev,
+.slides .slick-next {
+  position: absolute;
+  top: 50%;
+  z-index: 1;
+}
+
+
+.slides {
+  position: relative;
+}
+
+.slides .slick-prev,
+.slides .slick-next {
+  position: absolute;
+  top: 50%;
+  z-index:1;
+}
+
+.slides .slick-prev {
+  left: 5%;
+}
+
+.slides .slick-next {
+  right: 5%;
 }
