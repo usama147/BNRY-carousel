@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0188c858c1dba6ef9dba61c32614b413",
+    "revision": "1d43db16859dacdc4aabeb1f2b9a9e53",
     "url": "/BNRY-carousel/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BNRY-carousel/static/css/2.49d3d760.chunk.css"
   },
   {
-    "revision": "e489dea405e87b7eacbe",
-    "url": "/BNRY-carousel/static/css/main.88b8d1a4.chunk.css"
+    "revision": "c96af024e02abb0ced6b",
+    "url": "/BNRY-carousel/static/css/main.a24c400c.chunk.css"
   },
   {
     "revision": "568f05f7fbd5990cc650",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BNRY-carousel/static/js/2.b27acacc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e489dea405e87b7eacbe",
+    "revision": "c96af024e02abb0ced6b",
     "url": "/BNRY-carousel/static/js/main.c4533a73.chunk.js"
   },
   {
